@@ -1,31 +1,28 @@
 # Step-By-Step
 
-**不积跬步无以至千里。**
+## 如何判断this指向
 
-### 停更
-___
+### 默认绑定
 
+严格模式，指向undefined
 
+非严格模式，浏览器环境，指向window/globalThis
 
-## 历史问题
+非严格模式，node环境，指向global
 
-[查看更多面试题](https://github.com/YvetteLau/Step-By-Step/blob/master/summary/index.md)
+### 隐式绑定
 
-## 周刊
+通过对象方法调用的函数内，this指向该对象
 
-[【Step-By-Step】高频面试题深入解析 / 周刊01](https://juejin.im/post/5cea6e5fe51d45775e33f4de)
+### 显示绑定
 
-[【Step-By-Step】高频面试题深入解析 / 周刊02](https://juejin.im/post/5cf392e75188250d2850f97d)
+通过call，apply，bind方法调用的函数，指向绑定的对象
 
-[【Step-By-Step】高频面试题深入解析 / 周刊03](https://juejin.im/post/5cfdc5c7f265da1b8a4f10f3)
+### new绑定
 
-[【Step-By-Step】高频面试题深入解析 / 周刊04](https://juejin.im/post/5d064ab851882510715e37ad)
+通过new调用的构造函数内，this指向新创建的对象
 
-[【Step-By-Step】高频面试题深入解析 / 周刊05](https://juejin.im/post/5d0f8e5e5188255e8d751220)
+### 箭头函数
 
-[【Step-By-Step】高频面试题深入解析 / 周刊06](https://juejin.im/post/5d1a2814e51d4510835e02e9)
-
-[【Step-By-Step】高频面试题深入解析 / 周刊07](https://juejin.im/post/5d23f7de6fb9a07ec56e9d13)
-____
-
+箭头函数this指向，取决于定义箭头函数的上下文中this指向
 
