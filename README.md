@@ -2,3 +2,4 @@
 2. [谈谈JS中的数据结构&类型转换](https://github.com/scarsu/Step-By-Step/wiki/Day02-JS%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 3. [谈谈语义化](https://github.com/scarsu/Step-By-Step/wiki/Day03-%E8%AF%AD%E4%B9%89%E5%8C%96)
 4. [如何让 (a == 1 && a == 2 && a == 3) 的值为true？](https://github.com/scarsu/Step-By-Step/wiki/Day04---%E5%A6%82%E4%BD%95%E8%AE%A9-(a-==-1-&&-a-==-2-&&-a-==-3)-%E7%9A%84%E5%80%BC%E4%B8%BAtrue%EF%BC%9F)
+5. [z-index值大就一定在上层吗？](https://github.com/scarsu/Step-By-Step/wiki/Day05-z-index%E5%80%BC%E5%A4%A7%E5%B0%B1%E4%B8%80%E5%AE%9A%E5%9C%A8%E4%B8%8A%E5%B1%82%E5%90%97%EF%BC%9Fstack-level-&-stacking-context)
