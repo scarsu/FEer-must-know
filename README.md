@@ -3,3 +3,4 @@
 3. [谈谈语义化](https://github.com/scarsu/Step-By-Step/wiki/Day03-%E8%AF%AD%E4%B9%89%E5%8C%96)
 4. [如何让 (a == 1 && a == 2 && a == 3) 的值为true？](https://github.com/scarsu/Step-By-Step/wiki/Day04---%E5%A6%82%E4%BD%95%E8%AE%A9-(a-==-1-&&-a-==-2-&&-a-==-3)-%E7%9A%84%E5%80%BC%E4%B8%BAtrue%EF%BC%9F)
 5. [z-index值大就一定在上层吗？](https://github.com/scarsu/Step-By-Step/wiki/Day05-z-index%E5%80%BC%E5%A4%A7%E5%B0%B1%E4%B8%80%E5%AE%9A%E5%9C%A8%E4%B8%8A%E5%B1%82%E5%90%97%EF%BC%9Fstack-level-&-stacking-context)
+6. [防抖、节流、rAF](https://github.com/scarsu/FEer-must-know/wiki/Day06-%E5%87%BD%E6%95%B0%E8%8A%82%E6%B5%81&%E9%98%B2%E6%8A%96)
